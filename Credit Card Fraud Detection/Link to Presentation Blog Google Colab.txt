@@ -1,0 +1,8 @@
+Link to Presentation:
+https://docs.google.com/presentation/d/1d7G5rub6BZmvyvYyICKu3vlrFBKNhLHef3LeiZYB8n4/edit?usp=sharing
+
+Link to Blogpost:
+https://medium.com/@kadalacyrild/ai-fraud-detection-model-443ff3d2309f
+
+Link to Google Colab Notebook:
+https://drive.google.com/file/d/1dhXdxcPDy55ZfxwWhYmCw_CAHrDp4nVf/view?usp=sharing
